@@ -1,0 +1,88 @@
+accountant
+accounting
+anaesthetist
+aviation
+bar
+bid
+building
+buyer
+cabling
+café
+capital
+chronic
+civil
+clearance
+clinical
+construction
+contract
+controls
+defence
+dentist
+depot
+deputy
+designer
+deutsch
+director
+duty manager
+ehs manager
+electrical
+energy
+events
+facilities
+fitness
+freelance
+ftc
+german
+glazing
+gym manager
+head
+healthcare
+investment
+installation
+interim
+it manager
+joinery
+lecturer
+loan
+locum
+mandarin
+marketing
+maternity
+mechanical
+medical
+nurse
+nursing
+oncology
+parts
+payroll
+physician
+pmo manager
+ppc manager
+pr manager
+practice
+practitioner
+pricing
+procurement
+production
+professor
+project manager
+property manager
+pub manager
+qa manager
+recruitment
+research
+retrofit
+roofing
+sales
+SEO Manager
+solar
+solicitor
+spa manager
+spanish
+senior data
+senior it
+substation
+tax
+temporary
+tutor
+utilities
